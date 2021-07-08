@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://www.frontendmentor.io/solutions/huddle-landing-page-with-curved-sections-using-flexbox-and-js-esDdBz88S)
-- Live Site URL: [live site URL](https://hopeful-ardinghelli-0b4cf9.netlify.app/)
+- Live Site URL: [live site URL](https://focused-chandrasekhar-e687c5.netlify.app/)
 
 ## Built with
 
